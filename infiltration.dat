@@ -1,0 +1,16 @@
+land_use	Standard_Method	Double_Ring
+alfalfa_field	0.66	1.88
+pasture	0.02	1.91
+pasture	-0.50	3.85
+pasture	0.52	4.85
+managed_wood-lot	0.82	5.44
+park	0.56	6.78
+meadow	-9999.00	8.14
+forest	1.58	-9999.00
+forest	-9999.00	16.16
+pasture	3.82	18.67
+forest	8.80	42.85
+alfalfa_field	0.20	0.52
+gully	1.16	0.96
+fallow_field	0.16	1.88
+water_way	0.43	2.60

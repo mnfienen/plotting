@@ -1,0 +1,9 @@
+Set of plotting utilities: a m!ke@usgs joint
+
+############
+# bar_plot #
+############
+splits a bar plot on the vertical axis into two subplots to accomodate
+out outlier bar at a different scale.
+more information at:
+http://stackoverflow.com/questions/5656798/python-matplotlib-is-there-a-way-to-make-a-discontinuous-axis
